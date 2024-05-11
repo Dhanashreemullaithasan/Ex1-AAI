@@ -1,5 +1,8 @@
-<H3> Experiment 1</H3>
+<H3> Experiment : 1</H3>
 <H3>DATE:</H3>
+<H3>ENTER YOUR NAME :DHANASHREE M</H3>
+<H3>ENTER YOUR REGISTER NO :212221230018</H3>
+
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ##  Aim :
